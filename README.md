@@ -126,11 +126,9 @@ I work with **SQL, Excel, Power BI, and Python** to analyze data, uncover patter
 
 #  CURRENTLY LEARNING
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    📚 CURRENTLY LEARNING                       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">📚 Currently Learning</h2>
+
+<h2 align="center">Currently Learning</h2>
 
 <p align="center">
   <sub>Building strong foundations in analytics, data science & AI</sub>
