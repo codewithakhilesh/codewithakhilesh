@@ -6,7 +6,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=900&height=70&lines=Data+Analyst+%7C+Data+Science;SQL+%7C+Python+%7C+Excel+%7C+Power+BI;Turning+Raw+Data+Into+Meaningful+Insights;Building+Data-Driven+Solutions+%F0%9F%9A%80;Always+Learning+%E2%80%A2+Always+Building"
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=900&height=70&lines=Data+Analyst+%7C+Data+Science;SQL+%7C+Python+%7C+Excel+%7C+Power+BI;Turning+Raw+Data+Into+Meaningful+Insights;Building+Data-Driven+Solutions;Always+Learning+%E2%80%A2+Always+Building"
     alt="Data Analytics Typing Animation"
   />
 </p>
