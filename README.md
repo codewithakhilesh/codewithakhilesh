@@ -103,47 +103,24 @@ I work with **SQL, Excel, Power BI, and Python** to analyze data, uncover patter
 ## CONTRIBUTION SNAKE
 
 
-
-<div align="center">
-
-  <h3> Contribution Activity</h3>
-
-  <p>
-    <sub>My coding activity across GitHub — visualized as a contribution journey.</sub>
-  </p>
-
-  <br>
-
+<p align="center">
   <picture>
-    <!-- Dark Mode -->
     <source
       media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/codewithakhilesh/codewithakhilesh/output/github-contribution-grid-snake-dark.svg"
     />
-
-    <!-- Light Mode -->
     <source
       media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/codewithakhilesh/codewithakhilesh/output/github-contribution-grid-snake.svg"
     />
-
-    <!-- Fallback -->
     <img
       src="https://raw.githubusercontent.com/codewithakhilesh/codewithakhilesh/output/github-contribution-grid-snake.svg"
       alt="GitHub Contribution Snake"
-      width="95%"
+      width="100%"
     />
   </picture>
+</p>
 
-  <br><br>
-
-  <p>
-    <sub> Consistency •  Analytics •  Continuous Learning</sub>
-  </p>
-
-</div>
-
----
 
 
 
