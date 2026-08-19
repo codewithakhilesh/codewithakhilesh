@@ -314,5 +314,9 @@ I work with **SQL, Excel, Power BI, and Python** to analyze data, uncover patter
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1e3a8a,100:0f172a&height=120&section=footer"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1e3a8a,100:0f172a&height=120&section=footer"
+    width="100%"
+    alt="Footer Wave"
+  />
 </p>
