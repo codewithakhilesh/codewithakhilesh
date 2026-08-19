@@ -84,15 +84,9 @@ I work with **SQL, Excel, Power BI, and Python** to analyze data, uncover patter
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codewithakhilesh&theme=tokyonight" width="32%"/>
 </p>
 
-#
+#   TECH STACK     
 
 
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         🛠️ TECH STACK                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
   <sub>
@@ -105,7 +99,7 @@ I work with **SQL, Excel, Power BI, and Python** to analyze data, uncover patter
 
 <!-- ───────────────────── DATA ANALYTICS ───────────────────── -->
 
-<h3 align="center">📊 Data Analytics</h3>
+<h3 align="center"> Data Analytics</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
@@ -117,7 +111,7 @@ I work with **SQL, Excel, Power BI, and Python** to analyze data, uncover patter
 
 <!-- ───────────────────── PROGRAMMING ───────────────────── -->
 
-<h3 align="center">🐍 Programming & Data Science</h3>
+<h3 align="center">Programming & Data Science</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -129,7 +123,7 @@ I work with **SQL, Excel, Power BI, and Python** to analyze data, uncover patter
 
 <!-- ───────────────────── MACHINE LEARNING ───────────────────── -->
 
-<h3 align="center">🤖 Machine Learning & AI</h3>
+<h3 align="center"> Machine Learning & AI</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
@@ -140,7 +134,7 @@ I work with **SQL, Excel, Power BI, and Python** to analyze data, uncover patter
 
 <!-- ───────────────────── WEB DEVELOPMENT ───────────────────── -->
 
-<h3 align="center">🌐 Web Development</h3>
+<h3 align="center"> Web Development</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -151,7 +145,7 @@ I work with **SQL, Excel, Power BI, and Python** to analyze data, uncover patter
 
 <!-- ───────────────────── DATABASE ───────────────────── -->
 
-<h3 align="center">🗄️ Databases</h3>
+<h3 align="center"> Databases</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
@@ -161,7 +155,7 @@ I work with **SQL, Excel, Power BI, and Python** to analyze data, uncover patter
 
 <!-- ───────────────────── TOOLS ───────────────────── -->
 
-<h3 align="center">⚙️ Tools & Platforms</h3>
+<h3 align="center"> Tools & Platforms</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
