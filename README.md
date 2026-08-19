@@ -197,10 +197,18 @@ I work with **SQL, Excel, Power BI, and Python** to analyze data, uncover patter
 
 #  MY PHILOSOPHY
 
+<h2 align="center">◈ My Philosophy</h2>
+
 <p align="center">
-
-### `"Data is everywhere. Insights are everywhere. I build the bridge between them."`
-
+  <br>
+  <strong>
+    “Data is everywhere. Insights are everywhere.
+    <br>
+    I build the bridge between them.”
+  </strong>
+  <br><br>
+  <sub>— Turning data into meaningful decisions</sub>
+  <br>
 </p>
 
 ---
