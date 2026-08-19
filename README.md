@@ -102,23 +102,46 @@ I work with **SQL, Excel, Power BI, and Python** to analyze data, uncover patter
 
 ## CONTRIBUTION SNAKE
 
-<p align="center">
+
+
+<div align="center">
+
+  <h3> Contribution Activity</h3>
+
+  <p>
+    <sub>My coding activity across GitHub — visualized as a contribution journey.</sub>
+  </p>
+
+  <br>
+
   <picture>
+    <!-- Dark Mode -->
     <source
       media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/codewithakhilesh/codewithakhilesh/output/github-contribution-grid-snake-dark.svg"
     />
+
+    <!-- Light Mode -->
     <source
       media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/codewithakhilesh/codewithakhilesh/output/github-contribution-grid-snake.svg"
     />
+
+    <!-- Fallback -->
     <img
       src="https://raw.githubusercontent.com/codewithakhilesh/codewithakhilesh/output/github-contribution-grid-snake.svg"
       alt="GitHub Contribution Snake"
-      width="100%"
+      width="95%"
     />
   </picture>
-</p>
+
+  <br><br>
+
+  <p>
+    <sub> Consistency •  Analytics •  Continuous Learning</sub>
+  </p>
+
+</div>
 
 ---
 
@@ -126,18 +149,36 @@ I work with **SQL, Excel, Power BI, and Python** to analyze data, uncover patter
 
 #  CURRENTLY LEARNING
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    📚 CURRENTLY LEARNING                       -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">📚 Currently Learning</h2>
+
 <p align="center">
+  <sub>Building strong foundations in analytics, data science & AI</sub>
+</p>
 
-| Skill               | Progress                 |
-| ------------------- | ------------------------ |
-|  SQL             | ████████████████████ 90% |
-|  Excel            | ███████████████████░ 85% |
-|  Power BI         | ████████████████░░░░ 75% |
-|  Python           | ██████████████░░░░░░ 70% |
-|  Data Science     | ████████████░░░░░░░░ 60% |
-|  Machine Learning | ██████████░░░░░░░░░░ 50% |
-|  Gen AI            | ██████████░░░░░░░░░░ 50% |
+<br>
 
+<div align="center">
+
+|  Skill |  Progress |  Level |
+|:---:|:---:|:---:|
+| **SQL** | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ | **90%** |
+| **Excel** | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ | **85%** |
+| **Power BI** | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ | **75%** |
+| **Python** | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ | **70%** |
+| **Data Science** | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ | **60%** |
+| **Machine Learning** | 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ | **50%** |
+| **Gen AI** | 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ | **50%** |
+
+</div>
+
+<br>
+
+<p align="center">
+  <sub> Learn → Build → Analyze → Improve → Repeat</sub>
 </p>
 
 ---
