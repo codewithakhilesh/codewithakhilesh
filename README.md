@@ -84,7 +84,105 @@ I work with **SQL, Excel, Power BI, and Python** to analyze data, uncover patter
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codewithakhilesh&theme=tokyonight" width="32%"/>
 </p>
 
+#
 
+
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         🛠️ TECH STACK                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<p align="center">
+  <sub>
+    Technologies and tools I use to build, analyze, visualize, and
+    transform data into meaningful solutions.
+  </sub>
+</p>
+
+<br>
+
+<!-- ───────────────────── DATA ANALYTICS ───────────────────── -->
+
+<h3 align="center">📊 Data Analytics</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+</p>
+
+<!-- ───────────────────── PROGRAMMING ───────────────────── -->
+
+<h3 align="center">🐍 Programming & Data Science</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
+</p>
+
+<!-- ───────────────────── MACHINE LEARNING ───────────────────── -->
+
+<h3 align="center">🤖 Machine Learning & AI</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/>
+</p>
+
+<!-- ───────────────────── WEB DEVELOPMENT ───────────────────── -->
+
+<h3 align="center">🌐 Web Development</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+</p>
+
+<!-- ───────────────────── DATABASE ───────────────────── -->
+
+<h3 align="center">🗄️ Databases</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</p>
+
+<!-- ───────────────────── TOOLS ───────────────────── -->
+
+<h3 align="center">⚙️ Tools & Platforms</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab"/>
+</p>
+
+<br>
+
+<p align="center">
+  <sub>
+    <b>Analyze</b> • <b>Visualize</b> • <b>Build</b> • <b>Automate</b> • <b>Learn</b>
+  </sub>
+</p>
+
+
+
+
+#
 
 #  CONTRIBUTION STREAK
 
